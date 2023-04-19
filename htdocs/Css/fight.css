@@ -1,0 +1,44 @@
+
+body{
+    background-image: url(../images/combat.jpg);
+    background-size: cover;
+    height: 80vh;
+}
+
+.row {
+    padding-top: 5%;
+}
+
+
+
+@media only screen and (max-width: 768px) {
+    .row {
+        width: 80%;
+        height: 100%;
+        padding-left: 29%;
+        padding-top: 20%;
+    }
+
+  }
+
+  @media only screen and (max-width: 600px) {
+   
+    .row {
+        width: 80%;
+        height: 100%;
+        padding-left: 23%;
+        padding-top: 20%;
+    }
+  }
+
+
+
+  @media only screen and (max-width: 400px) {
+   
+     
+      }
+
+
+
+
+
